@@ -1,0 +1,31 @@
+
+.foto {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: center;
+    margin-left: 700px;
+    margin-bottom: -160px;
+}
+
+
+.nome {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50%;
+}
+
+.infos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50%;
+}
+
+.academico {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 35%;
+}
